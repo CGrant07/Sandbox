@@ -5,3 +5,5 @@
 print("Hello Carson Grant!")
 print("\nI am looking forward to my football game.\n")
 print("I cannot wait to go to team dinner tonight.")
+
+print("\nIt is a Monday")
